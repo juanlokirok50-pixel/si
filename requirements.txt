@@ -1,0 +1,16 @@
+# =============================================================================
+# Tkinter forma parte de la biblioteca estándar de Python.
+# No requiere instalación mediante 'pip' en la mayoría de los sistemas.
+#
+# Requisitos:
+# - Python >= 3.8
+#
+# Notas por Sistema Operativo:
+# - Windows y macOS: Viene preinstalado con el instalador oficial de python.org.
+# - Linux (Ubuntu/Debian): Si no está instalado, ejecutar:
+#     sudo apt-get install python3-tk
+# - Linux (Fedora):
+#     sudo dnf install python3-tkinter
+# - Linux (Arch):
+#     sudo pacman -S tk
+# =============================================================================

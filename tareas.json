@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "titulo": "Aprender widgets básicos de Tkinter",
+        "categoria": "Desarrollo",
+        "prioridad": "Alta",
+        "fecha": "2026-10-22",
+        "descripcion": "Estudiar Button, Label, Entry y Frame.",
+        "completada": true
+    },
+    {
+        "id": 2,
+        "titulo": "Diseñar interfaz responsiva con Grid",
+        "categoria": "Diseño",
+        "prioridad": "Media",
+        "fecha": "2026-10-22",
+        "descripcion": "Configurar pesos con columnconfigure y rowconfigure.",
+        "completada": false
+    },
+    {
+        "id": 3,
+        "titulo": "Subir repositorio completo a GitHub",
+        "categoria": "Desarrollo",
+        "prioridad": "Urgente",
+        "fecha": "2026-10-22",
+        "descripcion": "Incluir README detallado y ejemplos funcionales.",
+        "completada": false
+    }
+]
